@@ -12,14 +12,14 @@ Open source private server for Super Mario Maker (Wii U), integrated with [SMMDB
 
 This is prototype-quality software. Do not expect it to work 100% of the time, however you should be able to do the following things:
 
-- ✔️ 100 Mario Challenge (using random levels from SMMDB).
+- ✔️ 100 Mario Challenge (using random levels from SMMDB or the Nintendo Course World Archive).
+- ✔️ Course browser.
 - ✔️ Level uploading.
 - ✔️ Synchronized stars.
 - ✔️ Basic functionality in other areas.
 
 Features that are **not** implemented:
 
-- ❌ Course browser.
 - ❌ Makers.
 - ❌ Bookmarks.
 
